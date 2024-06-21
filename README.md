@@ -1,6 +1,6 @@
 # Advanced RSA Encryption App
 
-This project is a sophisticated RSA encryption and decryption application built using Streamlit. It offers an interactive user interface to generate RSA keys, encrypt and decrypt messages, and handle file encryption and decryption. The app also provides a detailed explanation of how the RSA algorithm works, making it both a functional tool and an educational resource.
+This project is an interactive RSA encryption and decryption application built using Streamlit. It offers an user-friendly interface to generate RSA keys, encrypt and decrypt messages, and handle file encryption and decryption. The app also provides a detailed explanation of how the RSA algorithm works, making it both a functional tool and an educational resource.
 
 ## Features
 
