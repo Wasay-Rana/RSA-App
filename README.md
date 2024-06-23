@@ -43,8 +43,8 @@ This project is an interactive RSA encryption and decryption application built u
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/rsa-encryption-app.git
-   cd rsa-encryption-app
+   git clone https://github.com/Wasay-Rana/RSA-App.git
+   cd RSA-App
    ```
 
 2. **Install the Required Packages**:
@@ -56,7 +56,7 @@ This project is an interactive RSA encryption and decryption application built u
 
 1. **Run the Streamlit App**:
    ```sh
-   streamlit run app.py
+   streamlit run rsa_app.py
    ```
 
 2. **Open in Browser**:
